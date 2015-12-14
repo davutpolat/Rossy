@@ -1,0 +1,7 @@
+Stations_id; Stationshoehe; Geogr.Breite; Geogr.Laenge; von_datum; bis_datum; Stationsname;                                                                                                             
+  1078;   36; 51.2789;  6.7667;19490423;19491130;Düsseldorf                                                                                                                                             
+  1078;   36; 51.2789;  6.7667;19491201;19600630;Düsseldorf                                                                                                                                             
+  1078;   36; 51.2803;  6.7594;19600701;19660427;Düsseldorf                                                                                                                                             
+  1078;   37; 51.2903;  6.7817;19660428;19921005;Düsseldorf                                                                                                                                             
+  1078;   37; 51.2972;  6.7700;19921006;20060202;Düsseldorf                                                                                                                                             
+  1078;   37; 51.2958;  6.7686;20060203;        ;Düsseldorf                                                                                                                                             

@@ -1,0 +1,4 @@
+Stations_id; Stationshoehe; Geogr.Breite; Geogr.Laenge; von_datum; bis_datum; Stationsname;                                                                                                             
+  3126;   76; 52.1033; 11.5844;19010101;19530331;Magdeburg                                                                                                                                              
+  3126;   76; 52.1033; 11.5844;19530401;20060405;Magdeburg                                                                                                                                              
+  3126;   76; 52.1028; 11.5825;20060406;        ;Magdeburg                                                                                                                                              

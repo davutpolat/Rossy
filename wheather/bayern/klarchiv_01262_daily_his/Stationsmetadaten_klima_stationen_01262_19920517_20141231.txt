@@ -1,0 +1,5 @@
+Stations_id; Stationshoehe; Geogr.Breite; Geogr.Laenge; von_datum; bis_datum; Stationsname;                                                                                                             
+  1262;  443; 48.3578; 11.8031;19920517;20020516;München-Flughafen                                                                                                                                      
+  1262;  444; 48.3583; 11.8092;20020517;20081127;München-Flughafen                                                                                                                                      
+  1262;  444; 48.3583; 11.8092;20081128;20110920;München-Flughafen                                                                                                                                      
+  1262;  446; 48.3475; 11.8131;20110921;        ;München-Flughafen                                                                                                                                      

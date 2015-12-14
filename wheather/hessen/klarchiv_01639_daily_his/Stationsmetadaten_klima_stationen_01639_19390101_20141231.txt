@@ -1,0 +1,5 @@
+Stations_id; Stationshoehe; Geogr.Breite; Geogr.Laenge; von_datum; bis_datum; Stationsname;                                                                                                             
+  1639;  186; 50.5881;  8.6803;19380101;19471231;Gieﬂen/Wettenberg                                                                                                                                      
+  1639;  186; 50.5886;  8.6981;19480101;20051110;Gieﬂen/Wettenberg                                                                                                                                      
+  1639;  203; 50.6014;  8.6439;20051111;20140616;Gieﬂen/Wettenberg                                                                                                                                      
+  1639;  203; 50.6014;  8.6439;20140617;        ;Gieﬂen/Wettenberg                                                                                                                                      
